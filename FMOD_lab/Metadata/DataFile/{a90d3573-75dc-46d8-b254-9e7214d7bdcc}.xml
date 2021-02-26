@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DataFile" id="{a90d3573-75dc-46d8-b254-9e7214d7bdcc}">
+		<property name="assetPath">
+			<value>Ambience/crickets_loop.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b81b9c09-2016-4ea5-8865-6cc7848d89fb}</destination>
+		</relationship>
+	</object>
+</objects>
